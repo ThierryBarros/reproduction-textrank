@@ -1,5 +1,7 @@
-# reproduction-textrank
+# TextRank Reproduction
 Reprodução do artigo TextRank: Bringing order to text
+
+O código para pré-processamento, aplicação do modelo e avaliação está no arquivo **Summarizer.ipynb**
 
 # WikiHow-Dataset
 WikiHow: A Large Scale Text Summarization Dataset
